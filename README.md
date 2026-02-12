@@ -1,3 +1,11 @@
+# Hi 👋, I'm Supritha
+
+🚀 Aspiring Data Analyst| Data Scientist| Data Engineer | AI Systems Enthusiast 
+
+📄 **Resume:** 
+[Download Here](https://github.com/SuprithaR426
+/SuprithaR426
+/blob/main/Supritha Ramesha(resume).pdf)
 # About me:
 🔭 I’m currently working on machine learning and data analytics projects, focusing on predictive modeling and real-world business applications.
 
