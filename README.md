@@ -1,5 +1,4 @@
-# Hi, I'm Supritha R. 👋
-
+# About me:
 🔭 I’m currently working on machine learning and data analytics projects, focusing on predictive modeling and real-world business applications.
 
 👯 I’m looking to collaborate on projects related to Data Science, Deep Learning, or Large Language Models.
@@ -13,8 +12,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suprithareddy/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SuprithaR426)
 
 ---
 
